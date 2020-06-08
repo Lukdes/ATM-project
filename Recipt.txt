@@ -1,0 +1,5 @@
+Here is your recipt
+Name: Luke
+Accout Number: 1234
+Checkings Balance: $145
+Savings Balance $55
